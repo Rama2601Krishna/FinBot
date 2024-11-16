@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-astradb
+datasets
+python-dotenv
+flask
+
+-e.
