@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: FinBot
+Version: 0.0.1
+Author: Rama
+Author-email: rama3017krishna@gmail.com
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-astradb
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: flask
+Requires-Dist: python-dotenv

@@ -1,5 +1,4 @@
 venv/
 .env
 data/
-FinBot.egg-info
-.json
+FinBot.egg-i.json

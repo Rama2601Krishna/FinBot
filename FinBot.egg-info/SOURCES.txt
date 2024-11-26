@@ -1,0 +1,9 @@
+setup.py
+FinBot.egg-info/PKG-INFO
+FinBot.egg-info/SOURCES.txt
+FinBot.egg-info/dependency_links.txt
+FinBot.egg-info/requires.txt
+FinBot.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
